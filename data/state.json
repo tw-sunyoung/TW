@@ -71,8 +71,8 @@
       "firstSeen": "2026-09-04T08:28:07.568Z"
     },
     "Gamebase": {
-      "lastSha": "fc5227dddf86be00ed3c22a9e5f5670403a84853",
-      "lastChecked": "2026-09-16T03:29:37.749Z",
+      "lastSha": "9acf46ef2d569d8b0671653c61ce7b9d45215104",
+      "lastChecked": "2026-09-23T04:33:41.205Z",
       "firstSeen": "2026-09-04T08:28:07.945Z"
     },
     "Real-Time-Multiplayer": {
@@ -351,8 +351,8 @@
       "firstSeen": "2026-09-04T08:28:28.491Z"
     },
     "Alimtalk": {
-      "lastSha": "b3b98398cab487ea9b14ffdea70e7a555ddf8193",
-      "lastChecked": "2026-09-04T08:28:28.875Z",
+      "lastSha": "c024b9137182f9399848ed75426eb10337376772",
+      "lastChecked": "2026-09-23T04:34:03.262Z",
       "firstSeen": "2026-09-04T08:28:28.875Z"
     },
     "Compute-Monitoring-v2": {
@@ -376,8 +376,8 @@
       "firstSeen": "2026-09-04T08:28:30.358Z"
     },
     "EasyCache": {
-      "lastSha": "809ff15d463545a25b3c6a63cef2c501d7cf48fb",
-      "lastChecked": "2026-09-04T08:28:30.684Z",
+      "lastSha": "48f4f781f3a35cdc1d3479197d9d48ad1d8998c6",
+      "lastChecked": "2026-09-23T04:34:05.945Z",
       "firstSeen": "2026-09-04T08:28:30.684Z"
     },
     "Dooray-Wiki": {
@@ -776,8 +776,8 @@
       "firstSeen": "2026-09-04T08:29:01.959Z"
     },
     "TW": {
-      "lastSha": "30438eee8407f5bbc9e7e58ceabf8fefa30a1118",
-      "lastChecked": "2026-09-16T03:30:47.227Z",
+      "lastSha": "3db272f2725a7df36e6facd7fa8070071fc5a810",
+      "lastChecked": "2026-09-23T04:34:40.473Z",
       "firstSeen": "2026-09-04T08:29:02.296Z"
     },
     "NHNBastion": {
@@ -881,8 +881,8 @@
       "firstSeen": "2026-09-04T08:29:09.314Z"
     },
     "nhn-cloud-foundry": {
-      "lastSha": "e3294fd16d6b4b9173fa5f6ecbc36a23b633e704",
-      "lastChecked": "2026-09-04T08:29:09.668Z",
+      "lastSha": "a1821114df5503414a3f08ba11f6ccdb1b53ceed",
+      "lastChecked": "2026-09-23T04:34:49.390Z",
       "firstSeen": "2026-09-04T08:29:09.668Z"
     },
     "rds-integration-test": {
