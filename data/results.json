@@ -1,7 +1,7 @@
 {
-  "lastPoll": "2026-09-23T04:34:50.120Z",
+  "lastPoll": "2026-09-30T05:22:01.427Z",
   "heartbeat": {
-    "timestamp": "2026-09-23T04:34:50.120Z",
+    "timestamp": "2026-09-30T05:22:01.427Z",
     "trackedRepos": 179,
     "repoNames": [
       "kms",
@@ -187,237 +187,142 @@
   },
   "changes": [
     {
-      "repo": "Gamebase",
-      "previousSha": "fc5227dddf86be00ed3c22a9e5f5670403a84853",
-      "currentSha": "9acf46ef2d569d8b0671653c61ce7b9d45215104",
-      "compareUrl": "https://github.com/TOAST-DOCS/Gamebase/compare/fc5227dddf86be00ed3c22a9e5f5670403a84853...9acf46ef2d569d8b0671653c61ce7b9d45215104",
-      "mdChanges": 2,
+      "repo": "Monitoring-Cloud-Monitoring",
+      "previousSha": "454b357292c5fc8c9c74391e2b1421cb03d47855",
+      "currentSha": "928cf7b0419a1888245c6d9578434f789c3c3674",
+      "compareUrl": "https://github.com/TOAST-DOCS/Monitoring-Cloud-Monitoring/compare/454b357292c5fc8c9c74391e2b1421cb03d47855...928cf7b0419a1888245c6d9578434f789c3c3674",
+      "mdChanges": 9,
       "files": [
         {
-          "filename": "ko/aos-etc.md",
-          "status": "modified",
-          "additions": 12,
-          "deletions": 5
-        },
-        {
-          "filename": "ko/release-notes-android.md",
-          "status": "modified",
-          "additions": 18,
-          "deletions": 1
-        }
-      ],
-      "detectedAt": "2026-09-23T04:33:41.205Z",
-      "checkedBy": []
-    },
-    {
-      "repo": "Alimtalk",
-      "previousSha": "b3b98398cab487ea9b14ffdea70e7a555ddf8193",
-      "currentSha": "c024b9137182f9399848ed75426eb10337376772",
-      "compareUrl": "https://github.com/TOAST-DOCS/Alimtalk/compare/b3b98398cab487ea9b14ffdea70e7a555ddf8193...c024b9137182f9399848ed75426eb10337376772",
-      "mdChanges": 11,
-      "files": [
-        {
-          "filename": "ko/alimtalk-api-guide-v1.4.md",
-          "status": "modified",
-          "additions": 1,
-          "deletions": 2
-        },
-        {
-          "filename": "ko/alimtalk-api-guide-v1.5.md",
+          "filename": "ko/console-guide-gov.md",
           "status": "modified",
           "additions": 0,
-          "deletions": 1
-        },
-        {
-          "filename": "ko/alimtalk-api-guide-v2.0.md",
-          "status": "modified",
-          "additions": 0,
-          "deletions": 1
-        },
-        {
-          "filename": "ko/alimtalk-api-guide-v2.1.md",
-          "status": "modified",
-          "additions": 0,
-          "deletions": 1
-        },
-        {
-          "filename": "ko/alimtalk-api-guide-v2.2.md",
-          "status": "modified",
-          "additions": 0,
-          "deletions": 1
-        },
-        {
-          "filename": "ko/alimtalk-api-guide.md",
-          "status": "modified",
-          "additions": 0,
-          "deletions": 2
-        },
-        {
-          "filename": "ko/alimtalk-console-guide.md",
-          "status": "modified",
-          "additions": 3,
-          "deletions": 3
-        },
-        {
-          "filename": "ko/friendtalk-compatible-api-guide.md",
-          "status": "modified",
-          "additions": 2,
-          "deletions": 2
-        },
-        {
-          "filename": "ko/friendtalk-console-guide.md",
-          "status": "modified",
-          "additions": 2,
-          "deletions": 2
-        },
-        {
-          "filename": "ko/release-notes.md",
-          "status": "modified",
-          "additions": 1,
-          "deletions": 1
-        },
-        {
-          "filename": "ko/webhook-api-guide.md",
-          "status": "modified",
-          "additions": 1,
-          "deletions": 4
-        }
-      ],
-      "detectedAt": "2026-09-23T04:34:03.262Z",
-      "checkedBy": []
-    },
-    {
-      "repo": "EasyCache",
-      "previousSha": "809ff15d463545a25b3c6a63cef2c501d7cf48fb",
-      "currentSha": "48f4f781f3a35cdc1d3479197d9d48ad1d8998c6",
-      "compareUrl": "https://github.com/TOAST-DOCS/EasyCache/compare/809ff15d463545a25b3c6a63cef2c501d7cf48fb...48f4f781f3a35cdc1d3479197d9d48ad1d8998c6",
-      "mdChanges": 13,
-      "files": [
-        {
-          "filename": "ko/console-guide/backup.md",
-          "status": "modified",
-          "additions": 14,
-          "deletions": 0
-        },
-        {
-          "filename": "ko/console-guide/cache-gov.md",
-          "status": "modified",
-          "additions": 22,
-          "deletions": 0
-        },
-        {
-          "filename": "ko/console-guide/cache.md",
-          "status": "modified",
-          "additions": 98,
           "deletions": 23
         },
         {
-          "filename": "ko/console-guide/db-security-group.md",
+          "filename": "ko/console-guide-ncgn.md",
           "status": "modified",
-          "additions": 10,
-          "deletions": 0
+          "additions": 0,
+          "deletions": 23
         },
         {
-          "filename": "ko/console-guide/event.md",
+          "filename": "ko/console-guide.md",
           "status": "modified",
-          "additions": 6,
-          "deletions": 0
-        },
-        {
-          "filename": "ko/console-guide/notification.md",
-          "status": "modified",
-          "additions": 20,
-          "deletions": 0
-        },
-        {
-          "filename": "ko/console-guide/parameter-group.md",
-          "status": "modified",
-          "additions": 22,
-          "deletions": 0
-        },
-        {
-          "filename": "ko/console-guide/server-dashboard.md",
-          "status": "modified",
-          "additions": 18,
-          "deletions": 0
-        },
-        {
-          "filename": "ko/developer-guide.md",
-          "status": "modified",
-          "additions": 18,
-          "deletions": 0
-        },
-        {
-          "filename": "ko/i18n/be_messages.md",
-          "status": "added",
-          "additions": 25,
-          "deletions": 0
-        },
-        {
-          "filename": "ko/overview.md",
-          "status": "modified",
-          "additions": 4,
-          "deletions": 0
+          "additions": 165,
+          "deletions": 15
         },
         {
           "filename": "ko/release-notes-gov.md",
           "status": "modified",
-          "additions": 24,
+          "additions": 8,
+          "deletions": 0
+        },
+        {
+          "filename": "ko/release-notes-ncgn.md",
+          "status": "modified",
+          "additions": 8,
           "deletions": 0
         },
         {
           "filename": "ko/release-notes.md",
           "status": "modified",
-          "additions": 225,
-          "deletions": 54
+          "additions": 19,
+          "deletions": 1
+        },
+        {
+          "filename": "ko/user-guide-gov.md",
+          "status": "modified",
+          "additions": 0,
+          "deletions": 18
+        },
+        {
+          "filename": "ko/user-guide-ncgn.md",
+          "status": "modified",
+          "additions": 0,
+          "deletions": 18
+        },
+        {
+          "filename": "ko/user-guide.md",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 20
         }
       ],
-      "detectedAt": "2026-09-23T04:34:05.945Z",
-      "checkedBy": []
-    },
-    {
-      "repo": "nhn-cloud-foundry",
-      "previousSha": "e3294fd16d6b4b9173fa5f6ecbc36a23b633e704",
-      "currentSha": "a1821114df5503414a3f08ba11f6ccdb1b53ceed",
-      "compareUrl": "https://github.com/TOAST-DOCS/nhn-cloud-foundry/compare/e3294fd16d6b4b9173fa5f6ecbc36a23b633e704...a1821114df5503414a3f08ba11f6ccdb1b53ceed",
-      "mdChanges": 5,
-      "files": [
-        {
-          "filename": "ko/api-guide.md",
-          "status": "modified",
-          "additions": 364,
-          "deletions": 43
-        },
-        {
-          "filename": "ko/console-user-guide.md",
-          "status": "modified",
-          "additions": 655,
-          "deletions": 169
-        },
-        {
-          "filename": "ko/overview.md",
-          "status": "modified",
-          "additions": 21,
-          "deletions": 14
-        },
-        {
-          "filename": "ko/quick-start.md",
-          "status": "modified",
-          "additions": 148,
-          "deletions": 37
-        },
-        {
-          "filename": "ko/release-notes.md",
-          "status": "modified",
-          "additions": 24,
-          "deletions": 6
-        }
-      ],
-      "detectedAt": "2026-09-23T04:34:49.390Z",
+      "detectedAt": "2026-09-30T05:21:50.797Z",
       "checkedBy": []
     }
   ],
   "history": [
+    {
+      "pollDate": "2026-09-30T05:22:01.427Z",
+      "changes": [
+        {
+          "repo": "Monitoring-Cloud-Monitoring",
+          "previousSha": "454b357292c5fc8c9c74391e2b1421cb03d47855",
+          "currentSha": "928cf7b0419a1888245c6d9578434f789c3c3674",
+          "compareUrl": "https://github.com/TOAST-DOCS/Monitoring-Cloud-Monitoring/compare/454b357292c5fc8c9c74391e2b1421cb03d47855...928cf7b0419a1888245c6d9578434f789c3c3674",
+          "mdChanges": 9,
+          "files": [
+            {
+              "filename": "ko/console-guide-gov.md",
+              "status": "modified",
+              "additions": 0,
+              "deletions": 23
+            },
+            {
+              "filename": "ko/console-guide-ncgn.md",
+              "status": "modified",
+              "additions": 0,
+              "deletions": 23
+            },
+            {
+              "filename": "ko/console-guide.md",
+              "status": "modified",
+              "additions": 165,
+              "deletions": 15
+            },
+            {
+              "filename": "ko/release-notes-gov.md",
+              "status": "modified",
+              "additions": 8,
+              "deletions": 0
+            },
+            {
+              "filename": "ko/release-notes-ncgn.md",
+              "status": "modified",
+              "additions": 8,
+              "deletions": 0
+            },
+            {
+              "filename": "ko/release-notes.md",
+              "status": "modified",
+              "additions": 19,
+              "deletions": 1
+            },
+            {
+              "filename": "ko/user-guide-gov.md",
+              "status": "modified",
+              "additions": 0,
+              "deletions": 18
+            },
+            {
+              "filename": "ko/user-guide-ncgn.md",
+              "status": "modified",
+              "additions": 0,
+              "deletions": 18
+            },
+            {
+              "filename": "ko/user-guide.md",
+              "status": "modified",
+              "additions": 1,
+              "deletions": 20
+            }
+          ],
+          "detectedAt": "2026-09-30T05:21:50.797Z",
+          "checkedBy": []
+        }
+      ]
+    },
     {
       "pollDate": "2026-09-23T04:34:50.120Z",
       "changes": [
