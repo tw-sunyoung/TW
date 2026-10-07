@@ -1,7 +1,7 @@
 {
-  "lastPoll": "2026-09-30T05:22:01.427Z",
+  "lastPoll": "2026-10-07T05:42:25.731Z",
   "heartbeat": {
-    "timestamp": "2026-09-30T05:22:01.427Z",
+    "timestamp": "2026-10-07T05:42:25.731Z",
     "trackedRepos": 179,
     "repoNames": [
       "kms",
@@ -187,72 +187,810 @@
   },
   "changes": [
     {
-      "repo": "Monitoring-Cloud-Monitoring",
-      "previousSha": "454b357292c5fc8c9c74391e2b1421cb03d47855",
-      "currentSha": "928cf7b0419a1888245c6d9578434f789c3c3674",
-      "compareUrl": "https://github.com/TOAST-DOCS/Monitoring-Cloud-Monitoring/compare/454b357292c5fc8c9c74391e2b1421cb03d47855...928cf7b0419a1888245c6d9578434f789c3c3674",
-      "mdChanges": 9,
+      "repo": "Push",
+      "previousSha": "afa6fc41144cb9991e26e0382cccb60daf2f62c4",
+      "currentSha": "8b8e5b478389b32d8515aaf4052eee74e261fb1f",
+      "compareUrl": "https://github.com/TOAST-DOCS/Push/compare/afa6fc41144cb9991e26e0382cccb60daf2f62c4...8b8e5b478389b32d8515aaf4052eee74e261fb1f",
+      "mdChanges": 20,
       "files": [
         {
-          "filename": "ko/console-guide-gov.md",
-          "status": "modified",
+          "filename": "ko/old/Client SDK Guide v1.32.md",
+          "status": "removed",
           "additions": 0,
-          "deletions": 23
-        },
-        {
-          "filename": "ko/console-guide-ncgn.md",
-          "status": "modified",
-          "additions": 0,
-          "deletions": 23
-        },
-        {
-          "filename": "ko/console-guide.md",
-          "status": "modified",
-          "additions": 165,
-          "deletions": 15
-        },
-        {
-          "filename": "ko/release-notes-gov.md",
-          "status": "modified",
-          "additions": 8,
           "deletions": 0
         },
         {
-          "filename": "ko/release-notes-ncgn.md",
-          "status": "modified",
-          "additions": 8,
+          "filename": "ko/old/Client SDK Guide.md",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "filename": "ko/old/Developer`s Guide v1.3.md",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "filename": "ko/old/Developer`s Guide.md",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "filename": "ko/old/Developer`s Guide_en.md",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "filename": "ko/old/Getting Started.md",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "filename": "ko/old/Overview.md",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "filename": "ko/old/README.md",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "filename": "ko/old/Release Notes.md",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "filename": "ko/old/api-guide-v1.3.md",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "filename": "ko/old/release-notes.md",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "filename": "ko/old/sdk-guide-v1.32.md",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "filename": "ko/old/sdk-guide-v1.4.md",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "filename": "ko/old/sdk-guide.md",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "filename": "ko/release-notes-android.md",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "filename": "ko/release-notes-ios.md",
+          "status": "removed",
+          "additions": 0,
           "deletions": 0
         },
         {
           "filename": "ko/release-notes.md",
           "status": "modified",
-          "additions": 19,
-          "deletions": 1
+          "additions": 0,
+          "deletions": 0
         },
         {
-          "filename": "ko/user-guide-gov.md",
+          "filename": "ko/sdk-guide-android.md",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "filename": "ko/sdk-guide-ios.md",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "filename": "ko/sdk-guide-toast-push.md",
           "status": "modified",
           "additions": 0,
-          "deletions": 18
-        },
-        {
-          "filename": "ko/user-guide-ncgn.md",
-          "status": "modified",
-          "additions": 0,
-          "deletions": 18
-        },
-        {
-          "filename": "ko/user-guide.md",
-          "status": "modified",
-          "additions": 1,
-          "deletions": 20
+          "deletions": 0
         }
       ],
-      "detectedAt": "2026-09-30T05:21:50.797Z",
+      "detectedAt": "2026-10-07T05:41:10.036Z",
+      "checkedBy": []
+    },
+    {
+      "repo": "SMS",
+      "previousSha": "abe4c7050ea6e43d307e1a59585c54f5fe74c4e2",
+      "currentSha": "37a108b0ec08ed2ae59e10395685f0f06ebb339a",
+      "compareUrl": "https://github.com/TOAST-DOCS/SMS/compare/abe4c7050ea6e43d307e1a59585c54f5fe74c4e2...37a108b0ec08ed2ae59e10395685f0f06ebb339a",
+      "mdChanges": 7,
+      "files": [
+        {
+          "filename": "ko/api-guide-v2.2.md",
+          "status": "modified",
+          "additions": 5,
+          "deletions": 5
+        },
+        {
+          "filename": "ko/api-guide-v2.3.md",
+          "status": "modified",
+          "additions": 5,
+          "deletions": 5
+        },
+        {
+          "filename": "ko/api-guide-v2.4.md",
+          "status": "modified",
+          "additions": 5,
+          "deletions": 5
+        },
+        {
+          "filename": "ko/api-guide.md",
+          "status": "modified",
+          "additions": 12,
+          "deletions": 12
+        },
+        {
+          "filename": "ko/console-guide.md",
+          "status": "modified",
+          "additions": 27,
+          "deletions": 6
+        },
+        {
+          "filename": "ko/release-notes.md",
+          "status": "modified",
+          "additions": 14,
+          "deletions": 6
+        },
+        {
+          "filename": "ko/webhook.md",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 1
+        }
+      ],
+      "detectedAt": "2026-10-07T05:41:11.172Z",
+      "checkedBy": []
+    },
+    {
+      "repo": "notification-hub",
+      "previousSha": "214189dce3aeea04b1e69f0ccf03dcccc39e4b66",
+      "currentSha": "7df4524c8b5aa27a7dbca2e43d8453921105b2d0",
+      "compareUrl": "https://github.com/TOAST-DOCS/notification-hub/compare/214189dce3aeea04b1e69f0ccf03dcccc39e4b66...7df4524c8b5aa27a7dbca2e43d8453921105b2d0",
+      "mdChanges": 34,
+      "files": [
+        {
+          "filename": "ko/api-guide-v1x0/attachment.md",
+          "status": "modified",
+          "additions": 7,
+          "deletions": 28
+        },
+        {
+          "filename": "ko/api-guide-v1x0/common-info.md",
+          "status": "modified",
+          "additions": 17,
+          "deletions": 48
+        },
+        {
+          "filename": "ko/api-guide-v1x0/contact-delivery-result.md",
+          "status": "modified",
+          "additions": 0,
+          "deletions": 4
+        },
+        {
+          "filename": "ko/api-guide-v1x0/flow.md",
+          "status": "modified",
+          "additions": 9,
+          "deletions": 29
+        },
+        {
+          "filename": "ko/api-guide-v1x0/grouptag.md",
+          "status": "modified",
+          "additions": 5,
+          "deletions": 20
+        },
+        {
+          "filename": "ko/api-guide-v1x0/image-layout.md",
+          "status": "modified",
+          "additions": 5,
+          "deletions": 20
+        },
+        {
+          "filename": "ko/api-guide-v1x0/kakao-statistics.md",
+          "status": "modified",
+          "additions": 6,
+          "deletions": 20
+        },
+        {
+          "filename": "ko/api-guide-v1x0/message-example.md",
+          "status": "modified",
+          "additions": 16,
+          "deletions": 54
+        },
+        {
+          "filename": "ko/api-guide-v1x0/message.md",
+          "status": "modified",
+          "additions": 7,
+          "deletions": 37
+        },
+        {
+          "filename": "ko/api-guide-v1x0/sender-unsubscribe.md",
+          "status": "modified",
+          "additions": 4,
+          "deletions": 16
+        },
+        {
+          "filename": "ko/api-guide-v1x0/stats.md",
+          "status": "modified",
+          "additions": 3,
+          "deletions": 6
+        },
+        {
+          "filename": "ko/api-guide-v1x0/template-category.md",
+          "status": "modified",
+          "additions": 7,
+          "deletions": 28
+        },
+        {
+          "filename": "ko/api-guide-v1x0/template.md",
+          "status": "modified",
+          "additions": 2,
+          "deletions": 80
+        },
+        {
+          "filename": "ko/console-guide/address-book.md",
+          "status": "modified",
+          "additions": 10,
+          "deletions": 20
+        },
+        {
+          "filename": "ko/console-guide/attachment.md",
+          "status": "modified",
+          "additions": 3,
+          "deletions": 8
+        },
+        {
+          "filename": "ko/console-guide/detailed-setting.md",
+          "status": "modified",
+          "additions": 25,
+          "deletions": 44
+        },
+        {
+          "filename": "ko/console-guide/flow.md",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 4
+        },
+        {
+          "filename": "ko/console-guide/get-contact-delivery-results.md",
+          "status": "modified",
+          "additions": 3,
+          "deletions": 8
+        },
+        {
+          "filename": "ko/console-guide/getting-started.md",
+          "status": "modified",
+          "additions": 18,
+          "deletions": 51
+        },
+        {
+          "filename": "ko/console-guide/send-a-message.md",
+          "status": "modified",
+          "additions": 43,
+          "deletions": 48
+        },
+        {
+          "filename": "ko/console-guide/sender-info.md",
+          "status": "modified",
+          "additions": 77,
+          "deletions": 124
+        },
+        {
+          "filename": "ko/console-guide/statistics.md",
+          "status": "modified",
+          "additions": 5,
+          "deletions": 9
+        },
+        {
+          "filename": "ko/console-guide/template.md",
+          "status": "modified",
+          "additions": 14,
+          "deletions": 27
+        },
+        {
+          "filename": "ko/error-code.md",
+          "status": "modified",
+          "additions": 3,
+          "deletions": 4
+        },
+        {
+          "filename": "ko/overview.md",
+          "status": "modified",
+          "additions": 11,
+          "deletions": 21
+        },
+        {
+          "filename": "ko/problem-solving-guide.md",
+          "status": "modified",
+          "additions": 5,
+          "deletions": 12
+        },
+        {
+          "filename": "ko/release-note.md",
+          "status": "modified",
+          "additions": 86,
+          "deletions": 96
+        },
+        {
+          "filename": "ko/service-policy-and-precondition/alimtalk-and-friendtalk.md",
+          "status": "modified",
+          "additions": 14,
+          "deletions": 29
+        },
+        {
+          "filename": "ko/service-policy-and-precondition/email.md",
+          "status": "modified",
+          "additions": 13,
+          "deletions": 26
+        },
+        {
+          "filename": "ko/service-policy-and-precondition/identity-verification.md",
+          "status": "modified",
+          "additions": 4,
+          "deletions": 8
+        },
+        {
+          "filename": "ko/service-policy-and-precondition/international-sms.md",
+          "status": "modified",
+          "additions": 5,
+          "deletions": 10
+        },
+        {
+          "filename": "ko/service-policy-and-precondition/push.md",
+          "status": "modified",
+          "additions": 14,
+          "deletions": 32
+        },
+        {
+          "filename": "ko/service-policy-and-precondition/rcs.md",
+          "status": "modified",
+          "additions": 10,
+          "deletions": 20
+        },
+        {
+          "filename": "ko/service-policy-and-precondition/sms.md",
+          "status": "modified",
+          "additions": 11,
+          "deletions": 21
+        }
+      ],
+      "detectedAt": "2026-10-07T05:42:17.544Z",
       "checkedBy": []
     }
   ],
   "history": [
+    {
+      "pollDate": "2026-10-07T05:42:25.731Z",
+      "changes": [
+        {
+          "repo": "Push",
+          "previousSha": "afa6fc41144cb9991e26e0382cccb60daf2f62c4",
+          "currentSha": "8b8e5b478389b32d8515aaf4052eee74e261fb1f",
+          "compareUrl": "https://github.com/TOAST-DOCS/Push/compare/afa6fc41144cb9991e26e0382cccb60daf2f62c4...8b8e5b478389b32d8515aaf4052eee74e261fb1f",
+          "mdChanges": 20,
+          "files": [
+            {
+              "filename": "ko/old/Client SDK Guide v1.32.md",
+              "status": "removed",
+              "additions": 0,
+              "deletions": 0
+            },
+            {
+              "filename": "ko/old/Client SDK Guide.md",
+              "status": "removed",
+              "additions": 0,
+              "deletions": 0
+            },
+            {
+              "filename": "ko/old/Developer`s Guide v1.3.md",
+              "status": "removed",
+              "additions": 0,
+              "deletions": 0
+            },
+            {
+              "filename": "ko/old/Developer`s Guide.md",
+              "status": "removed",
+              "additions": 0,
+              "deletions": 0
+            },
+            {
+              "filename": "ko/old/Developer`s Guide_en.md",
+              "status": "removed",
+              "additions": 0,
+              "deletions": 0
+            },
+            {
+              "filename": "ko/old/Getting Started.md",
+              "status": "removed",
+              "additions": 0,
+              "deletions": 0
+            },
+            {
+              "filename": "ko/old/Overview.md",
+              "status": "removed",
+              "additions": 0,
+              "deletions": 0
+            },
+            {
+              "filename": "ko/old/README.md",
+              "status": "removed",
+              "additions": 0,
+              "deletions": 0
+            },
+            {
+              "filename": "ko/old/Release Notes.md",
+              "status": "removed",
+              "additions": 0,
+              "deletions": 0
+            },
+            {
+              "filename": "ko/old/api-guide-v1.3.md",
+              "status": "removed",
+              "additions": 0,
+              "deletions": 0
+            },
+            {
+              "filename": "ko/old/release-notes.md",
+              "status": "removed",
+              "additions": 0,
+              "deletions": 0
+            },
+            {
+              "filename": "ko/old/sdk-guide-v1.32.md",
+              "status": "removed",
+              "additions": 0,
+              "deletions": 0
+            },
+            {
+              "filename": "ko/old/sdk-guide-v1.4.md",
+              "status": "removed",
+              "additions": 0,
+              "deletions": 0
+            },
+            {
+              "filename": "ko/old/sdk-guide.md",
+              "status": "removed",
+              "additions": 0,
+              "deletions": 0
+            },
+            {
+              "filename": "ko/release-notes-android.md",
+              "status": "removed",
+              "additions": 0,
+              "deletions": 0
+            },
+            {
+              "filename": "ko/release-notes-ios.md",
+              "status": "removed",
+              "additions": 0,
+              "deletions": 0
+            },
+            {
+              "filename": "ko/release-notes.md",
+              "status": "modified",
+              "additions": 0,
+              "deletions": 0
+            },
+            {
+              "filename": "ko/sdk-guide-android.md",
+              "status": "removed",
+              "additions": 0,
+              "deletions": 0
+            },
+            {
+              "filename": "ko/sdk-guide-ios.md",
+              "status": "removed",
+              "additions": 0,
+              "deletions": 0
+            },
+            {
+              "filename": "ko/sdk-guide-toast-push.md",
+              "status": "modified",
+              "additions": 0,
+              "deletions": 0
+            }
+          ],
+          "detectedAt": "2026-10-07T05:41:10.036Z",
+          "checkedBy": []
+        },
+        {
+          "repo": "SMS",
+          "previousSha": "abe4c7050ea6e43d307e1a59585c54f5fe74c4e2",
+          "currentSha": "37a108b0ec08ed2ae59e10395685f0f06ebb339a",
+          "compareUrl": "https://github.com/TOAST-DOCS/SMS/compare/abe4c7050ea6e43d307e1a59585c54f5fe74c4e2...37a108b0ec08ed2ae59e10395685f0f06ebb339a",
+          "mdChanges": 7,
+          "files": [
+            {
+              "filename": "ko/api-guide-v2.2.md",
+              "status": "modified",
+              "additions": 5,
+              "deletions": 5
+            },
+            {
+              "filename": "ko/api-guide-v2.3.md",
+              "status": "modified",
+              "additions": 5,
+              "deletions": 5
+            },
+            {
+              "filename": "ko/api-guide-v2.4.md",
+              "status": "modified",
+              "additions": 5,
+              "deletions": 5
+            },
+            {
+              "filename": "ko/api-guide.md",
+              "status": "modified",
+              "additions": 12,
+              "deletions": 12
+            },
+            {
+              "filename": "ko/console-guide.md",
+              "status": "modified",
+              "additions": 27,
+              "deletions": 6
+            },
+            {
+              "filename": "ko/release-notes.md",
+              "status": "modified",
+              "additions": 14,
+              "deletions": 6
+            },
+            {
+              "filename": "ko/webhook.md",
+              "status": "modified",
+              "additions": 1,
+              "deletions": 1
+            }
+          ],
+          "detectedAt": "2026-10-07T05:41:11.172Z",
+          "checkedBy": []
+        },
+        {
+          "repo": "notification-hub",
+          "previousSha": "214189dce3aeea04b1e69f0ccf03dcccc39e4b66",
+          "currentSha": "7df4524c8b5aa27a7dbca2e43d8453921105b2d0",
+          "compareUrl": "https://github.com/TOAST-DOCS/notification-hub/compare/214189dce3aeea04b1e69f0ccf03dcccc39e4b66...7df4524c8b5aa27a7dbca2e43d8453921105b2d0",
+          "mdChanges": 34,
+          "files": [
+            {
+              "filename": "ko/api-guide-v1x0/attachment.md",
+              "status": "modified",
+              "additions": 7,
+              "deletions": 28
+            },
+            {
+              "filename": "ko/api-guide-v1x0/common-info.md",
+              "status": "modified",
+              "additions": 17,
+              "deletions": 48
+            },
+            {
+              "filename": "ko/api-guide-v1x0/contact-delivery-result.md",
+              "status": "modified",
+              "additions": 0,
+              "deletions": 4
+            },
+            {
+              "filename": "ko/api-guide-v1x0/flow.md",
+              "status": "modified",
+              "additions": 9,
+              "deletions": 29
+            },
+            {
+              "filename": "ko/api-guide-v1x0/grouptag.md",
+              "status": "modified",
+              "additions": 5,
+              "deletions": 20
+            },
+            {
+              "filename": "ko/api-guide-v1x0/image-layout.md",
+              "status": "modified",
+              "additions": 5,
+              "deletions": 20
+            },
+            {
+              "filename": "ko/api-guide-v1x0/kakao-statistics.md",
+              "status": "modified",
+              "additions": 6,
+              "deletions": 20
+            },
+            {
+              "filename": "ko/api-guide-v1x0/message-example.md",
+              "status": "modified",
+              "additions": 16,
+              "deletions": 54
+            },
+            {
+              "filename": "ko/api-guide-v1x0/message.md",
+              "status": "modified",
+              "additions": 7,
+              "deletions": 37
+            },
+            {
+              "filename": "ko/api-guide-v1x0/sender-unsubscribe.md",
+              "status": "modified",
+              "additions": 4,
+              "deletions": 16
+            },
+            {
+              "filename": "ko/api-guide-v1x0/stats.md",
+              "status": "modified",
+              "additions": 3,
+              "deletions": 6
+            },
+            {
+              "filename": "ko/api-guide-v1x0/template-category.md",
+              "status": "modified",
+              "additions": 7,
+              "deletions": 28
+            },
+            {
+              "filename": "ko/api-guide-v1x0/template.md",
+              "status": "modified",
+              "additions": 2,
+              "deletions": 80
+            },
+            {
+              "filename": "ko/console-guide/address-book.md",
+              "status": "modified",
+              "additions": 10,
+              "deletions": 20
+            },
+            {
+              "filename": "ko/console-guide/attachment.md",
+              "status": "modified",
+              "additions": 3,
+              "deletions": 8
+            },
+            {
+              "filename": "ko/console-guide/detailed-setting.md",
+              "status": "modified",
+              "additions": 25,
+              "deletions": 44
+            },
+            {
+              "filename": "ko/console-guide/flow.md",
+              "status": "modified",
+              "additions": 1,
+              "deletions": 4
+            },
+            {
+              "filename": "ko/console-guide/get-contact-delivery-results.md",
+              "status": "modified",
+              "additions": 3,
+              "deletions": 8
+            },
+            {
+              "filename": "ko/console-guide/getting-started.md",
+              "status": "modified",
+              "additions": 18,
+              "deletions": 51
+            },
+            {
+              "filename": "ko/console-guide/send-a-message.md",
+              "status": "modified",
+              "additions": 43,
+              "deletions": 48
+            },
+            {
+              "filename": "ko/console-guide/sender-info.md",
+              "status": "modified",
+              "additions": 77,
+              "deletions": 124
+            },
+            {
+              "filename": "ko/console-guide/statistics.md",
+              "status": "modified",
+              "additions": 5,
+              "deletions": 9
+            },
+            {
+              "filename": "ko/console-guide/template.md",
+              "status": "modified",
+              "additions": 14,
+              "deletions": 27
+            },
+            {
+              "filename": "ko/error-code.md",
+              "status": "modified",
+              "additions": 3,
+              "deletions": 4
+            },
+            {
+              "filename": "ko/overview.md",
+              "status": "modified",
+              "additions": 11,
+              "deletions": 21
+            },
+            {
+              "filename": "ko/problem-solving-guide.md",
+              "status": "modified",
+              "additions": 5,
+              "deletions": 12
+            },
+            {
+              "filename": "ko/release-note.md",
+              "status": "modified",
+              "additions": 86,
+              "deletions": 96
+            },
+            {
+              "filename": "ko/service-policy-and-precondition/alimtalk-and-friendtalk.md",
+              "status": "modified",
+              "additions": 14,
+              "deletions": 29
+            },
+            {
+              "filename": "ko/service-policy-and-precondition/email.md",
+              "status": "modified",
+              "additions": 13,
+              "deletions": 26
+            },
+            {
+              "filename": "ko/service-policy-and-precondition/identity-verification.md",
+              "status": "modified",
+              "additions": 4,
+              "deletions": 8
+            },
+            {
+              "filename": "ko/service-policy-and-precondition/international-sms.md",
+              "status": "modified",
+              "additions": 5,
+              "deletions": 10
+            },
+            {
+              "filename": "ko/service-policy-and-precondition/push.md",
+              "status": "modified",
+              "additions": 14,
+              "deletions": 32
+            },
+            {
+              "filename": "ko/service-policy-and-precondition/rcs.md",
+              "status": "modified",
+              "additions": 10,
+              "deletions": 20
+            },
+            {
+              "filename": "ko/service-policy-and-precondition/sms.md",
+              "status": "modified",
+              "additions": 11,
+              "deletions": 21
+            }
+          ],
+          "detectedAt": "2026-10-07T05:42:17.544Z",
+          "checkedBy": []
+        }
+      ]
+    },
     {
       "pollDate": "2026-09-30T05:22:01.427Z",
       "changes": [

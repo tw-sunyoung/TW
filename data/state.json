@@ -96,13 +96,13 @@
       "firstSeen": "2026-09-04T08:28:09.542Z"
     },
     "Push": {
-      "lastSha": "afa6fc41144cb9991e26e0382cccb60daf2f62c4",
-      "lastChecked": "2026-09-04T08:28:09.978Z",
+      "lastSha": "8b8e5b478389b32d8515aaf4052eee74e261fb1f",
+      "lastChecked": "2026-10-07T05:41:10.036Z",
       "firstSeen": "2026-09-04T08:28:09.978Z"
     },
     "SMS": {
-      "lastSha": "abe4c7050ea6e43d307e1a59585c54f5fe74c4e2",
-      "lastChecked": "2026-09-04T08:28:10.264Z",
+      "lastSha": "37a108b0ec08ed2ae59e10395685f0f06ebb339a",
+      "lastChecked": "2026-10-07T05:41:11.172Z",
       "firstSeen": "2026-09-04T08:28:10.264Z"
     },
     "E-mail": {
@@ -776,8 +776,8 @@
       "firstSeen": "2026-09-04T08:29:01.959Z"
     },
     "TW": {
-      "lastSha": "a4ca2512a66e14eb79f1d3085b16d54c32d1a1de",
-      "lastChecked": "2026-09-30T05:21:51.729Z",
+      "lastSha": "a4296a9af6d7c87063d24097bccf95b41f055331",
+      "lastChecked": "2026-10-07T05:42:14.819Z",
       "firstSeen": "2026-09-04T08:29:02.296Z"
     },
     "NHNBastion": {
@@ -796,8 +796,8 @@
       "firstSeen": "2026-09-04T08:29:03.447Z"
     },
     "notification-hub": {
-      "lastSha": "214189dce3aeea04b1e69f0ccf03dcccc39e4b66",
-      "lastChecked": "2026-09-04T08:29:03.723Z",
+      "lastSha": "7df4524c8b5aa27a7dbca2e43d8453921105b2d0",
+      "lastChecked": "2026-10-07T05:42:17.544Z",
       "firstSeen": "2026-09-04T08:29:03.723Z"
     },
     "Cloud-Scheduler": {
