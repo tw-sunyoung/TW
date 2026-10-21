@@ -126,8 +126,8 @@
       "firstSeen": "2026-09-04T08:28:11.852Z"
     },
     "AppGuard": {
-      "lastSha": "bb263a19693815b2708969aa95260a250d61b319",
-      "lastChecked": "2026-09-16T03:29:43.647Z",
+      "lastSha": "fb80ae75ffbb0a954422dfe0dddde88c8ac9b659",
+      "lastChecked": "2026-10-21T04:28:12.294Z",
       "firstSeen": "2026-09-04T08:28:12.193Z"
     },
     "Security-Check": {
@@ -776,8 +776,8 @@
       "firstSeen": "2026-09-04T08:29:01.959Z"
     },
     "TW": {
-      "lastSha": "4fc6dcb2c745cf09eaee88c6f4bd28763e2d1cc3",
-      "lastChecked": "2026-10-14T02:20:57.988Z",
+      "lastSha": "051692b003f8af24dcf28ed53aee808839726044",
+      "lastChecked": "2026-10-21T04:29:15.387Z",
       "firstSeen": "2026-09-04T08:29:02.296Z"
     },
     "NHNBastion": {
