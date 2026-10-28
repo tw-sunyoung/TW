@@ -16,8 +16,8 @@
       "firstSeen": "2026-09-04T08:28:03.032Z"
     },
     "Compute-Instance": {
-      "lastSha": "f71070d649327010a68867f0c56d6ff5d4478d58",
-      "lastChecked": "2026-09-16T03:29:31.247Z",
+      "lastSha": "37c980f11f578def1f94472da1116a5af43cc6a5",
+      "lastChecked": "2026-10-28T05:22:23.774Z",
       "firstSeen": "2026-09-04T08:28:03.473Z"
     },
     "Compute-Image": {
@@ -51,8 +51,8 @@
       "firstSeen": "2026-09-04T08:28:05.820Z"
     },
     "Storage-Block-Storage": {
-      "lastSha": "7ca810aacbc18a60853cfb47b9a3c29aa87665f2",
-      "lastChecked": "2026-09-09T03:15:16.647Z",
+      "lastSha": "f422406a1d454cb12f26d412a8d5067c83d9c9f2",
+      "lastChecked": "2026-10-28T05:22:27.438Z",
       "firstSeen": "2026-09-04T08:28:06.386Z"
     },
     "Storage-NAS": {
@@ -61,8 +61,8 @@
       "firstSeen": "2026-09-04T08:28:06.725Z"
     },
     "Storage-Object-Storage": {
-      "lastSha": "622991a6171c50c9545328ab11088b5aa245e59b",
-      "lastChecked": "2026-09-09T03:15:18.660Z",
+      "lastSha": "1835f899429ba9b7745fcac66b99ecf4d02e98f3",
+      "lastChecked": "2026-10-28T05:22:28.768Z",
       "firstSeen": "2026-09-04T08:28:07.140Z"
     },
     "Storage-Backup": {
@@ -71,8 +71,8 @@
       "firstSeen": "2026-09-04T08:28:07.568Z"
     },
     "Gamebase": {
-      "lastSha": "34c03c7f55bdaea3ee6d9a358abdeb0a556d02ae",
-      "lastChecked": "2026-10-14T02:19:36.013Z",
+      "lastSha": "25c73efef3064f6c9aa4e6f9e6711036ac3ef328",
+      "lastChecked": "2026-10-28T05:22:30.307Z",
       "firstSeen": "2026-09-04T08:28:07.945Z"
     },
     "Real-Time-Multiplayer": {
@@ -106,8 +106,8 @@
       "firstSeen": "2026-09-04T08:28:10.264Z"
     },
     "E-mail": {
-      "lastSha": "ef7c5dbf5005cf6605696cf455e86a0166e53245",
-      "lastChecked": "2026-09-04T08:28:10.652Z",
+      "lastSha": "d27a95130492bf790de13c70b7755f0c6777baee",
+      "lastChecked": "2026-10-28T05:22:33.665Z",
       "firstSeen": "2026-09-04T08:28:10.652Z"
     },
     "RDS": {
@@ -126,8 +126,8 @@
       "firstSeen": "2026-09-04T08:28:11.852Z"
     },
     "AppGuard": {
-      "lastSha": "fb80ae75ffbb0a954422dfe0dddde88c8ac9b659",
-      "lastChecked": "2026-10-21T04:28:12.294Z",
+      "lastSha": "c4d54e392c3d0a3f901bce61d74170c3b41efbc3",
+      "lastChecked": "2026-10-28T05:22:35.680Z",
       "firstSeen": "2026-09-04T08:28:12.193Z"
     },
     "Security-Check": {
@@ -176,8 +176,8 @@
       "firstSeen": "2026-09-04T08:28:15.664Z"
     },
     "Deploy": {
-      "lastSha": "fa723ec4cddc7bca15680ae05bc26c6344c6b6e3",
-      "lastChecked": "2026-09-04T08:28:16.033Z",
+      "lastSha": "d7c3f4a7063256901eb17d69f019e55ddfd83666",
+      "lastChecked": "2026-10-28T05:22:40.667Z",
       "firstSeen": "2026-09-04T08:28:16.033Z"
     },
     "App-Analytics": {
@@ -291,13 +291,13 @@
       "firstSeen": "2026-09-04T08:28:24.163Z"
     },
     "Log-Crash-Search": {
-      "lastSha": "b190bfd663d651af35b7ca6b8ae9f55d4579d259",
-      "lastChecked": "2026-09-04T08:28:24.485Z",
+      "lastSha": "1a9d43bf7dd01f7e6df2a316fefff93a263dedf7",
+      "lastChecked": "2026-10-28T05:22:51.502Z",
       "firstSeen": "2026-09-04T08:28:24.485Z"
     },
     "Compute": {
-      "lastSha": "1e74c1dfdefbe2af23c9e0bfc5395c6740e846ba",
-      "lastChecked": "2026-09-09T03:15:36.230Z",
+      "lastSha": "eead03969f8c6790ed0c93118613ecf5a2dedd28",
+      "lastChecked": "2026-10-28T05:22:52.391Z",
       "firstSeen": "2026-09-04T08:28:24.875Z"
     },
     "Network": {
@@ -351,8 +351,8 @@
       "firstSeen": "2026-09-04T08:28:28.491Z"
     },
     "Alimtalk": {
-      "lastSha": "c024b9137182f9399848ed75426eb10337376772",
-      "lastChecked": "2026-09-23T01:59:43.576Z",
+      "lastSha": "f401a19c4b181c20e70c64e0a84dcfd47521684d",
+      "lastChecked": "2026-10-28T05:22:57.692Z",
       "firstSeen": "2026-09-04T08:28:28.875Z"
     },
     "Compute-Monitoring-v2": {
@@ -401,8 +401,8 @@
       "firstSeen": "2026-09-04T08:28:32.063Z"
     },
     "TOAST-Cloud": {
-      "lastSha": "4247b7488d2fe2fbec6b5dad042451dc42d915d6",
-      "lastChecked": "2026-10-14T02:20:15.488Z",
+      "lastSha": "829e116bed8752cf470efe17eb51f94e1256b5b0",
+      "lastChecked": "2026-10-28T05:23:02.667Z",
       "firstSeen": "2026-09-04T08:28:32.413Z"
     },
     "Certificate-Manager": {
@@ -556,8 +556,8 @@
       "firstSeen": "2026-09-04T08:28:43.545Z"
     },
     "ML-Deep-Learning-Instance": {
-      "lastSha": "0de7bf50a1029c09940990bd3c9509bfe92589ea",
-      "lastChecked": "2026-09-04T08:28:43.869Z",
+      "lastSha": "342db05bc1617ea586638d1f464584ab9ec8437c",
+      "lastChecked": "2026-10-28T05:23:17.749Z",
       "firstSeen": "2026-09-04T08:28:43.869Z"
     },
     "Document-Recognizer": {
@@ -671,8 +671,8 @@
       "firstSeen": "2026-09-04T08:28:51.972Z"
     },
     "EasyMaker": {
-      "lastSha": "cb2d0de64e442a3f699110dae57f4390218aeb68",
-      "lastChecked": "2026-09-04T08:28:52.293Z",
+      "lastSha": "ff22b9b3de850a221479d176f99906a668a67047",
+      "lastChecked": "2026-10-28T05:23:29.264Z",
       "firstSeen": "2026-09-04T08:28:52.293Z"
     },
     "GameTalk": {
@@ -691,13 +691,13 @@
       "firstSeen": "2026-09-04T08:28:53.331Z"
     },
     "Data-Query": {
-      "lastSha": "d5cdfb1581e167196117c717b62ecaf506e65ca7",
-      "lastChecked": "2026-09-04T08:28:53.644Z",
+      "lastSha": "36a0fa6cea76cf406439acf8e8855b436367f30c",
+      "lastChecked": "2026-10-28T05:23:31.528Z",
       "firstSeen": "2026-09-04T08:28:53.644Z"
     },
     "Data-Flow": {
-      "lastSha": "5a5fed898abf6cc49c1bf720db747f77c8f85ed6",
-      "lastChecked": "2026-09-16T03:30:37.771Z",
+      "lastSha": "65cae18d1c685cc7019296a85165e2f1756feb14",
+      "lastChecked": "2026-10-28T05:23:32.859Z",
       "firstSeen": "2026-09-04T08:28:53.968Z"
     },
     "Container-Container-Service": {
@@ -741,8 +741,8 @@
       "firstSeen": "2026-09-04T08:28:56.668Z"
     },
     "Transit-Hub": {
-      "lastSha": "56c96b4f78f14e41c7cb07f6eb681dc477d454f5",
-      "lastChecked": "2026-09-04T08:28:56.991Z",
+      "lastSha": "cad28ff54b64fedf8347b8f88e8052fa6a0f47e4",
+      "lastChecked": "2026-10-28T05:23:37.485Z",
       "firstSeen": "2026-09-04T08:28:56.991Z"
     },
     "Private-DNS": {
@@ -771,13 +771,13 @@
       "firstSeen": "2026-09-04T08:29:01.570Z"
     },
     "Monitoring-Cloud-Monitoring": {
-      "lastSha": "928cf7b0419a1888245c6d9578434f789c3c3674",
-      "lastChecked": "2026-09-30T02:36:59.921Z",
+      "lastSha": "cc07ee2baf641cb1bf9b6815c387c80cf163391d",
+      "lastChecked": "2026-10-28T05:23:41.462Z",
       "firstSeen": "2026-09-04T08:29:01.959Z"
     },
     "TW": {
-      "lastSha": "051692b003f8af24dcf28ed53aee808839726044",
-      "lastChecked": "2026-10-21T04:29:15.387Z",
+      "lastSha": "a8f272827cc3063ac74e5a848c7067620a293713",
+      "lastChecked": "2026-10-28T05:23:42.522Z",
       "firstSeen": "2026-09-04T08:29:02.296Z"
     },
     "NHNBastion": {
@@ -801,8 +801,8 @@
       "firstSeen": "2026-09-04T08:29:03.723Z"
     },
     "Cloud-Scheduler": {
-      "lastSha": "744077e15242ac5f04b9848fe4989f758afb19f5",
-      "lastChecked": "2026-09-04T08:29:04.069Z",
+      "lastSha": "7b92baadae5728b4a25d7aec4e5599af6e4d0f4e",
+      "lastChecked": "2026-10-28T05:23:45.259Z",
       "firstSeen": "2026-09-04T08:29:04.069Z"
     },
     "Vertias-Backup": {
@@ -816,8 +816,8 @@
       "firstSeen": "2026-09-04T08:29:04.791Z"
     },
     "Cloud-Access": {
-      "lastSha": "1862ff0dcd640c74882d2a4ece38b9714716799b",
-      "lastChecked": "2026-09-04T08:29:05.119Z",
+      "lastSha": "90887506c805d62c336cb28f45172bcae40c268e",
+      "lastChecked": "2026-10-28T05:23:47.300Z",
       "firstSeen": "2026-09-04T08:29:05.119Z"
     },
     "Quickstarts": {
@@ -851,8 +851,8 @@
       "firstSeen": "2026-09-04T08:29:07.213Z"
     },
     "Data-Lake-Storage": {
-      "lastSha": "137034b2ce78df2bdfca3580217f6b8eda1de9e8",
-      "lastChecked": "2026-09-16T03:30:54.079Z",
+      "lastSha": "c6fc37c1e5fa0d98601a214f28575a9645a6744f",
+      "lastChecked": "2026-10-28T05:23:50.556Z",
       "firstSeen": "2026-09-04T08:29:07.524Z"
     },
     "Load-Balancer-DSR": {
@@ -876,13 +876,13 @@
       "firstSeen": "2026-09-04T08:29:08.927Z"
     },
     "Support-Status": {
-      "lastSha": "99b80b89ee87505b085b629248a419fe09f1abd2",
-      "lastChecked": "2026-09-04T08:29:09.314Z",
+      "lastSha": "a05674c15d16d353e925e6d5753d1c9dbccac58c",
+      "lastChecked": "2026-10-28T05:23:53.001Z",
       "firstSeen": "2026-09-04T08:29:09.314Z"
     },
     "nhn-cloud-foundry": {
-      "lastSha": "a1821114df5503414a3f08ba11f6ccdb1b53ceed",
-      "lastChecked": "2026-09-23T02:00:37.713Z",
+      "lastSha": "023ed595abb9bf2c68f392fa9fda65cb2c726427",
+      "lastChecked": "2026-10-28T05:23:54.105Z",
       "firstSeen": "2026-09-04T08:29:09.668Z"
     },
     "rds-integration-test": {
